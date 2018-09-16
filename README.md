@@ -12,6 +12,8 @@
 
 AMBIT Discovery code  moved from [https://sourceforge.net/p/ambit/git/ci/master/tree/](https://sourceforge.net/p/ambit/git/ci/a67ce8a3fc4bbf6aba92a94cf983c0ddf506a782/)
 
+!!! For up-to-date version of the AMBIT applicability domain code see https://github.com/ideaconsult/appdomain
+
 ## Downloads
 
 - Windows setup (Java Runtime Environment NOT included) [AmbitDiscovery-v0.04-online-setup.exe] (http://sourceforge.net/projects/ambit/files/AmbitDiscovery/AmbitDiscovery-v0.04-online-setup.exe/download)
