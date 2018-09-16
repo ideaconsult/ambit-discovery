@@ -1,6 +1,6 @@
 # AMBIT Discovery
 
-** For up-to-date version of the AMBIT applicability domain code see https://github.com/ideaconsult/appdomain **
+**For up-to-date version of the AMBIT applicability domain code see https://github.com/ideaconsult/appdomain**
 
 ![AMBIT Discovery screenshot](http://ambit.sourceforge.net/images/thumb_ambitdiscovery.png "AMBIT Discovery")
 
