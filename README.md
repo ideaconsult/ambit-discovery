@@ -6,7 +6,7 @@
     
 `AMBIT Discovery` provides means to calculate the probability of a chemical belonging to a set represented by non-parametric probability density estimation. To assess structural similarity the user has a choice of Daylight style hashed fingerprints or atom environments (topological neighborhood). Details on similarity methods are provided in:
 
-- [Jaworska 2007] Joanna Jaworska, Nina Nikolova-Jeliazkova, {{{http://www.ncbi.nlm.nih.gov/pubmed/17514565}How can structural similarity analysis help in category formation}}, SAR and QSAR in Environmental Research, vol 18, 3-4 (<<2007>>)
+- Joanna Jaworska, Nina Nikolova-Jeliazkova, How can structural similarity analysis help in category formation}}, SAR and QSAR in Environmental Research, vol 18, 3-4, 2007, [DOI: 10.1080/10629360701306050](http://www.ncbi.nlm.nih.gov/pubmed/17514565)
 
 ## Code
 
