@@ -1,3 +1,5 @@
+** For up-to-date version of the AMBIT applicability domain code see https://github.com/ideaconsult/appdomain **
+
 # AMBIT Discovery
 
 ![AMBIT Discovery screenshot](http://ambit.sourceforge.net/images/thumb_ambitdiscovery.png "AMBIT Discovery")
@@ -12,7 +14,6 @@
 
 AMBIT Discovery code  moved from [https://sourceforge.net/p/ambit/git/ci/master/tree/](https://sourceforge.net/p/ambit/git/ci/a67ce8a3fc4bbf6aba92a94cf983c0ddf506a782/)
 
-!!! For up-to-date version of the AMBIT applicability domain code see https://github.com/ideaconsult/appdomain
 
 ## Downloads
 
